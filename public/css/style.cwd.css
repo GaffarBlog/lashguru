@@ -1,0 +1,80 @@
+.btn-org {
+    color: orange;
+    background-color: orangered;
+}
+
+.org {
+    background-color: #fff3e8;
+}
+
+.orange {
+    background-color: #ff8000;
+}
+
+.badge-danger {
+    font-size: medium;
+}
+
+#bg-pink {
+    background-color: #fae8e6;
+}
+
+#bg-lite-blue {
+    background-color: #d7effc;
+}
+
+#bg-light-brown {
+    background-color: #f9dfa6;
+}
+
+#bg-lt-white {
+    background-color: #eaecf4;
+}
+
+#bg-image {
+    background-image: url("/img/Background_Banner_001.png");
+}
+#bg-light-dark {
+    background-color: #eeeedd;
+}
+
+.bg-Cyan {
+    background-color: Cyan;
+}
+.bg-purple {
+    background-color: purple;
+}
+.bg-lime {
+    background-color: lime;
+}
+.bg-olive {
+    background-color: olive;
+}
+.bg-papayawhip {
+    background-color: papayawhip;
+}
+.bg-burlywood {
+    background-color: burlywood;
+}
+.bg-yellowgreen {
+    background-color: yellowgreen;
+}
+.bg-orangered {
+    background-color: orangered;
+}
+.bg-wheat {
+    background-color: wheat;
+}
+.bg-lightcoral {
+    background-color: lightcoral;
+}
+.bg-khaki {
+    background-color: khaki;
+}
+.bg-orangered {
+    background-color: orangered;
+}
+.align-center-copy {
+    align-self: center;
+    font-size: x-large;
+}
